@@ -201,7 +201,9 @@
     font-size: 1rem;
     color: white;
 }
-
+.btn-services2{
+    color: white;
+}
 @media screen and (max-width: 1093px){
     .modal3-form h2{
         font-size: 1.4rem;
